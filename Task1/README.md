@@ -34,6 +34,21 @@ A Python-based library management system using OOP concepts including encapsulat
 | 9780743273565 | The Great Gatsby | F. Scott Fitzgerald | 1 |
 | 9780131103627 | The C Programming Language | Brian Kernighan | 0 (Out of stock) |
 
+## Current Borrowing Records
+
+| Borrower ID | Borrower Name | ISBN | Book Title | Borrow Date | Due Date | Status |
+|-------------|---------------|------|------------|-------------|----------|--------|
+| B001 | Ngai Pik Yi | 9780131103627 | The C Programming Language | 2026-03-01 | 2026-03-15 | borrowed |
+| B002 | Lam Wing Hei Sophie | 9780141182803 | 1984 | 2026-03-05 | 2026-03-19 | borrowed |
+| B001 | Ngai Pik Yi | 9780451524935 | Animal Farm | 2026-02-20 | 2026-03-06 | returned |
+
+### Currently Borrowed (Not Returned Yet)
+
+| Borrower | Book Title | Due Date |
+|----------|------------|----------|
+| Ngai Pik Yi (B001) | The C Programming Language | 2026-03-15 |
+| Lam Wing Hei Sophie (B002) | 1984 | 2026-03-19 |
+
 ## Features
 ### Borrowers can:
 - Search books by title or author
