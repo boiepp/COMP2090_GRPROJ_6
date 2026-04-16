@@ -15,3 +15,6 @@
 | NGAI Pik Yi | 14261837 |
 | LAM Wing Hei Sophie | 14265664 |
 | POON Po Yee | 13884023 |
+
+## How to RUN
+git clone https://github.com/boiepp/PROJECT.git
