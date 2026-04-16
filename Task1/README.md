@@ -24,6 +24,16 @@ A Python-based library management system using OOP concepts including encapsulat
 - ID: M001
 - Password: admin123
 
+## Books Available in the System
+
+| ISBN | Title | Author | Available Copies |
+|------|-------|--------|------------------|
+| 9780141182803 | 1984 | George Orwell | 3 |
+| 9780061120084 | To Kill a Mockingbird | Harper Lee | 2 |
+| 9780451524935 | Animal Farm | George Orwell | 4 |
+| 9780743273565 | The Great Gatsby | F. Scott Fitzgerald | 1 |
+| 9780131103627 | The C Programming Language | Brian Kernighan | 0 (Out of stock) |
+
 ## Features
 ### Borrowers can:
 - Search books by title or author
