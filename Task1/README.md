@@ -12,9 +12,9 @@ A Python-based library management system using OOP concepts including encapsulat
 1. Ensure Python 3.x is installed
 2. Run the main program:
    python main.py
-3. No external packages required git clone
+3. No external packages required
 
-https://github.com/boiepp/COMP2090_GRP6.git
+git clone https://github.com/boiepp/COMP2090_GRP6.git
 
 ## Default Login Credentials
 ### Borrower Login
